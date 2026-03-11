@@ -1,0 +1,6 @@
+Python es genial, pero Python requiere práctica. ¿Práctica? ¡Sí, mucha práctica!
+El análisis de datos con python es útil, muy útil. 
+Los datos, los datos y más datos... son la clave del éxito.
+¿Acaso no es genial programar en Python? Genial, genial, simplemente GENIAL.
+Este texto tiene signos: puntos., comas,, y exclamaciones!! 
+También tiene MAYÚSCULAS y minúsculas mezcladas para probar el .lower().
